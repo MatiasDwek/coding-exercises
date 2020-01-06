@@ -1,4 +1,4 @@
-package stuff;
+package leetcode;
 
 /**
  * https://leetcode.com/problems/jump-game/
